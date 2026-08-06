@@ -1,0 +1,43 @@
+==================================================
+              PREPTRACK APPLICATION
+==================================================
+Enter student name: sai
+Enter registration number: 90767
+Enter graduation year: 2024
+Graduation year must be between 2025 and 2027. Enter again: 2025
+Enter attendance percentage: 67
+Has the student completed the required project? Enter yes or no: no
+Is the student profile verified? Enter yes or no: no
+Enter Day 1 score from 0 to 100, or -1 for absent: -1
+Enter Day 2 score from 0 to 100, or -1 for absent: 80
+Enter Day 3 score from 0 to 100, or -1 for absent: 50
+Enter Day 4 score from 0 to 100, or -1 for absent: 48
+Enter Day 5 score from 0 to 100, or -1 for absent: 49
+Enter Day 6 score from 0 to 100, or -1 for absent: 39
+Enter Day 7 score from 0 to 100, or -1 for absent: 90
+
+==================================================
+              PREPTRACK REPORT
+==================================================
+Student Name           : Siri
+Registration Number    : 90767
+Graduation Year        : 2025
+Attendance             : 67.0%
+
+Attempted Days         : 6
+Absent Days            : 1
+Passed Days            : 2
+Failed Days            : 4
+
+Strong Days            : 2
+Satisfactory Days      : 0
+Needs Improvement Days : 3
+Critical Days          : 1
+
+Total Score            : 356
+Average Score          : 59.33
+
+Final Status           : Critical Score Found
+Primary Blocker        : First critical score on Day 6 (39)
+Next Action            : Improve critical scores
+==================================================
