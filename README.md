@@ -84,7 +84,7 @@ A student is considered **Placement Ready** only if all the following conditions
 ```
 PrepTrack/
 │
-├── preptrack.py
+├── main.py
 └── README.md
 ```
 
@@ -98,7 +98,7 @@ PrepTrack/
 4. Run:
 
 ```bash
-python preptrack.py
+python main.py
 ```
 
 5. Enter the required student details and practice scores.
